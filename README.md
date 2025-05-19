@@ -6,50 +6,50 @@ Cloud-ul presupune:
 - Externalizarea acesteia către un furnizor (provider), care se ocupă de mentenanță și resurse hardware.
 
 ## Modele de Cloud Computing
-**IaaS – Infrastructure as a Service**
+### IaaS – Infrastructure as a Service
 - Primești hardware sau mașini virtuale (VM-uri).
 - Trebuie să configurezi totul singur (OS, aplicații).
 
-Avantaje:
+**Avantaje:**
 - Control complet asupra aplicațiilor.
 - Inițial mai ieftin decât o infrastructură locală (on-prem).
 - Flexibil și potrivit pentru majoritatea nevoilor.
 
-Dezavantaje:
+**Dezavantaje:**
 - Necesită expertiză umană (costuri mai mari).
 - Posibilă dependență de furnizor (vendor lock-in).
 - Risc de probleme de securitate (resurse partajate).
 
-Exemple de IaaS:
+**Exemple de IaaS:**
 - Amazon EC2, Google Compute Engine, Microsoft Azure VMs.
 
-**PaaS – Platform as a Service**
+### PaaS – Platform as a Service
 - Primești o platformă completă cu API și framework.
 - Doar faci deployment (implementarea aplicației).
 
-Avantaje:
+**Avantaje:**
 - Nu te ocupi de mentenanța platformei.
 - Deployment independent de hardware.
 
-Dezavantaje:
+**Dezavantaje:**
 - Mai scump decât IaaS, costul crește pe măsură ce folosești mai multe funcții.
 - Nu ai acces la nivel jos (low-level).
 - Securitatea este gestionată de provider – trebuie să ai încredere.
 
-Exemple de PaaS:
+**Exemple de PaaS:**
 - Heroku, Google App Engine, Azure App Service.
 
-**SaaS – Software as a Service**
+### SaaS – Software as a Service
 - Primești acces direct la o aplicație deja funcțională.
 
-Avantaje:
+**Avantaje:**
 - Cel mai ușor de folosit.
 
-Dezavantaje:
+**Dezavantaje:**
 - Cel mai scump model.
 - Control redus – ești dependent total de furnizor.
 
-Exemple de SaaS:
+**Exemple de SaaS:**
 - Gmail, Google Docs, Microsoft Office 365, Dropbox.
 
 ## Cum alegem între VM, Container sau Native?
