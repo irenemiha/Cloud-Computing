@@ -362,11 +362,12 @@ Tipuri de rețele în Docker
 **Tipuri de Servicii Cloud:**
 - **IaaS (Infrastructure as a Service):** Construirea infrastructurii IT prin închirierea de servere, mașini virtuale, stocare, rețele și sisteme de operare de la un furnizor cloud. Utilizatorul configurează și gestionează hardware-ul. Este cel mai flexibil serviciu. (Ex: Azure VMs, Azure Networking, Azure Storage).
 - **PaaS (Platform as a Service):** Furnizează un mediu pentru construirea, testarea și deploy-ul de aplicații. (Nu sunt detalii suplimentare în fragmentele disponibile, dar implică mai puțină gestionare hardware).
-- **SaaS (Software as a Service):** 
+- **SaaS (Software as a Service)** 
 
 ## Gestionarea Resurselor Cloud:
 
-**Regiuni și Zone de Disponibilitate:** (Menționat în agendă, dar fără detalii în fragmente).
+**Regiuni și Zone de Disponibilitate:**
+
 **Identity and Governance (Identitate și Guvernanță):**
 - **Azure Active Directory (AAD):** Serviciu de identitate.
 - **Role-Based Access Control (RBAC):**
