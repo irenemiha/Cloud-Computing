@@ -1,4 +1,4 @@
-# <font color="blue">Curs 1 - Context</font>
+<h1 style="color:blue;">Curs 1 - Context</h1>
 
 ## Ce este un Cloud?
 Cloud-ul presupune:
