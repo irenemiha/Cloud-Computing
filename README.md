@@ -1,4 +1,4 @@
-# Curs 1 - Context
+<font color="blue"># Curs 1 - Context</font>
 
 ## Ce este un Cloud?
 Cloud-ul presupune:
@@ -69,7 +69,7 @@ Când vrem să găzduim o aplicație, alegerea între:
 <br>
 <br>
 
-# Curs 2 - Volumes, Networking and Compose
+<font color="blue"># Curs 2 - Volumes, Networking and Compose</font>
 
 ## De ce containere (Docker)?
 Containerele oferă avantaje clare față de mașinile virtuale:
@@ -146,7 +146,7 @@ Tipuri de rețele în Docker
 <br>
 <br>
 
-# Curs 3 - Kubernetes
+<font color="blue"># Curs 3 - Kubernetes</font>
 
 ## Trecerea la medii de producție
 - Până acum: folosire simplă a containerelor (local, testare, docker-compose).
@@ -204,7 +204,7 @@ Tipuri de rețele în Docker
 <br>
 <br>
 
-# Curs 4 - Ingres and scaling
+<font color="blue"># Curs 4 - Ingres and scaling</font>
 ## Recapitulare Kubernetes
 - Kubernetes este un sistem de gestionare automată a aplicațiilor containerizate.
 - Permite pornirea, conectarea, limitarea, scalarea și distribuirea containerelor pe mai multe noduri.
@@ -277,7 +277,7 @@ Tipuri de rețele în Docker
 <br>
 <br>
 
-# Curs 5 - Izolarea în Kubernetes
+<font color="blue"># Curs 5 - Izolarea în Kubernetes</font>
 
 ## Introducere în Izolarea și Securitatea Aplicațiilor în Kubernetes:
 - Kubernetes este un orchestrator de containere pentru crearea, scalarea și managementul aplicațiilor.
@@ -350,7 +350,7 @@ Tipuri de rețele în Docker
 <br>
 <br>
 
-# Curs 6 - Cloud Computing Fundamentals
+<font color="blue"># Curs 6 - Cloud Computing Fundamentals</font>
 
 ## Concepte Fundamentale Cloud:
 
@@ -387,7 +387,7 @@ Tipuri de rețele în Docker
 <br>
 <br>
 
-# Curs 7 - Pipeline CI/CD
+<font color="blue"># Curs 7 - Pipeline CI/CD</font>
 
 ## Ce este CI/CD?
 - Acronim pentru **Continuous Integration / Continuous Delivery** (sau Continuous Deployment).
@@ -472,7 +472,7 @@ Tipuri de rețele în Docker
 <br>
 <br>
 
-# Curs 8 - Data Pipelines
+<font color="blue"># Curs 8 - Data Pipelines</font>
 
 ## Ce sunt Data Pipelines?
 - Datele în acest context: Se referă majoritar la evenimente (ex: tranzacții online, evenimente de login, loguri de securitate, date de la senzori).
@@ -528,7 +528,7 @@ Tipuri de rețele în Docker
 <br>
 <br>
 
-# Curs 9 - Persistence in Containers
+<font color="blue"># Curs 9 - Persistence in Containers</font>
 
 ## Introducere - Limitări neacoperite până acum:
 - Până acum, cursurile s-au concentrat pe partea de "compute" (rularea serviciilor, disponibilitate, acces, limitări de resurse, deployment-uri).
@@ -583,7 +583,7 @@ Tipuri de rețele în Docker
 <br>
 <br>
 
-# Curs 10 - Openshift
+<font color="blue"># Curs 10 - Openshift</font>
 
 ## OpenShift vs. Kubernetes:
 - OpenShift este o distribuție de Kubernetes vândută de Red Hat, dar există și o variantă Open Source cu suport comunitar.
