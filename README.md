@@ -4,7 +4,7 @@
 Cloud-ul presupune:
 - Abstractizarea infrastructurii: ascunderea complexității.
 - Externalizarea acesteia către un furnizor (provider), care se ocupă de mentenanță și resurse hardware.
-________________________________________
+
 ## Modele de Cloud Computing
 **IaaS – Infrastructure as a Service**
 - Primești hardware sau mașini virtuale (VM-uri).
